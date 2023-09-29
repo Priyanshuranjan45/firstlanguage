@@ -1,2 +1,4 @@
 # firstlanguage
-c++ code
+This is my first repository.
+<br>
+Author:- Priyanshu
